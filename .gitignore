@@ -1,0 +1,11 @@
+#latex:
+*.log
+*.aux
+*.toc
+*.pdf
+
+#packages:
+*.synctex.gz
+
+#c/c++:
+*.out
